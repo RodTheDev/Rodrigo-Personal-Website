@@ -1,0 +1,162 @@
+body, html{
+	
+	margin: 0;
+	padding: 0;
+	font-family: 'Work Sans', Sans-serif;
+	 
+}
+
+.navbar-custom{
+	margin:0;
+	padding:0;
+	background-color: #1985A1;
+	
+	font-weight: bold; 
+	font-size: large;
+	
+}
+.nav.navbar-nav li a {
+   color: #DCDCDD;
+;
+ }
+
+ul.nav a:hover {
+   color: #46494C!important; 
+}
+
+.navbar-default .navbar-brand {
+    color: #46494C;
+
+}
+.jumbotron {
+	color:#1985A1;
+	padding:0;
+	margin:0;
+	background-color: #46494C;
+	background-repeat: no-repeat;
+	background-size: cover;
+	text-shadow: 2px 2px 1px #000;
+	
+}
+.navbar-default {
+  
+  	border-color: transparent;
+ 
+ }
+.jumbotron .container h1{
+	padding:0;
+	margin:0;
+	clear: both;
+	margin-top: 5%;
+
+	
+	
+	
+}
+.jumbotron .container p{
+	padding:0;
+	margin:0;
+}
+.page-2{
+	color:#DCDCDD;
+	padding:0;
+	margin:0;
+	background-color:#4C5C68;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	text-shadow: 1px 1px .3px black;
+	
+	
+}
+.page-2 img:hover{
+	font-size: 25px;
+}
+.page-2 .container p{
+	margin-top:10%;
+}
+.page-2 .container img{
+	margin-top: 23%;
+}
+.page-3{
+	color:#DCDCDD;
+	padding:0;
+	margin:0;
+	background-color:#46494C;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	
+	
+}
+.page-addon1{
+	color:#dcdcdd;
+	padding:0;
+	margin:0;
+	background-color: #4c5c68;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+
+	
+}
+.page-4{
+	color:#dcdcdd;
+	padding:0;
+	margin:0;
+	background-color: #4c5c68;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	
+	
+}
+/* START SOCIAL */
+.tm-social {
+  text-transform: uppercase;
+}
+.tm-social .container {
+  width: 100%;
+  padding: 0;
+  margin: 0;
+}
+.tm-social .col-md-4 {
+  padding: 0;
+  margin: 0;
+}
+.facebook:hover,
+.twitter:hover,
+.instagram:hover {
+  background: #202020;
+}
+.facebook { background: #3b5998; }
+.twitter { background:  #1da1f2 ; }
+.instagram { background: #e1306c; }
+.media {
+  padding: 80px 40px 80px 40px;
+  -webkit-transition: all 0.6s ease-in;
+          transition: all 0.6s ease-in;
+}
+.tm-social a {
+  color: #ffffff;
+  display: inline-block;
+  text-decoration: none;
+}
+.tm-social .media .fa {
+  background: #ffffff;
+  border-radius: 2px;
+  color: #707070;
+  font-size: 30px;
+  width: 60px;
+  height: 60px;
+  line-height: 60px;
+  text-align: center;
+  margin-right: 20px;
+}
+.tm-social-title {
+  font-family: 'Raleway', sans-serif;
+  font-weight: bold;
+}
+/* END SOCIAL */
+
+
